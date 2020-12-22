@@ -1,8 +1,3 @@
-# Homework 2 Debugging and Fixing - CSE 320 - Fall 2019
-#### Professor Eugene Stark
-
-### **Due Date: Friday 10/4/2019 @ 11:59pm**
-
 # Introduction
 
 In this assignment you are tasked with updating an old piece of
